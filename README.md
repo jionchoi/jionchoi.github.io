@@ -1,2 +1,2 @@
 # jionchoi.github.io
-My personal Website
+My portfolio Website
